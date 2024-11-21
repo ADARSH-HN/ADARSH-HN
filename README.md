@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADARSH-HN
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: life is short 
