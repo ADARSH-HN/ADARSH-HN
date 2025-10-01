@@ -1,13 +1,5 @@
 <div align="center">
 
-```ascii
-   ___    ____  ___    ____  _____ __  __   __  __ _   __
-  / _ |  / __ \/ _ |  / __ \/ ___// / / /  / / / // | / /
- / __ | / / / / __ | / /_/ /\__ \/ /_/ /  / /_/ //  |/ / 
-/_/ |_|/_/ /_/_/ |_|/_____/____//_____/   \____//_/|___/  
-                                                           
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+%F0%9F%92%BB;Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Code+%7C+Secure+%7C+Defend+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -165,29 +157,7 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-```ascii
-     _____                                   _____                                   _____ 
-    /\    \                   ______        /\    \                                 /\    \
-   /::\____\                 |::|   |      /::\    \                               /::\____\
-  /:::/    /                 |::|   |     /::::\    \                             /:::/    /
- /:::/    /                  |::|   |    /::::::\    \                           /:::/    / 
-/:::/    /                   |::|   |   /:::/\:::\    \                         /:::/    /  
-\::/    /                    |::|   |  /:::/__\:::\    \                       /:::/    /   
- \/____/                     |::|   | /::::\   \:::\    \                     /:::/    /    
-                             |::|   |/::::::\   \:::\    \                   /:::/    /     
-                             |::|   /:::/\:::\   \:::\    \                 /:::/    /      
-                             |::| /:::/  \:::\   \:::\____\               /:::/____/       
-                             \::|/:::/    \:::\   \::/    /               \:::\    \       
-                              \::::/    / \:::\   \/____/                 \:::\    \      
-                               \::/    /   \:::\    \                      \:::\    \     
-                                \/____/     \:::\____\                      \:::\    \    
-                                             \::/    /                       \:::\    \   
-                                              \/____/                         \:::\    \  
-                                                                               \:::\    \ 
-                                                                                \:::\____\
-                                                                                 \::/    /
-                                                                                  \/____/ 
-```
+
 
 ### ⚡ Powered by Passion | Secured by Knowledge | Driven by Curiosity ⚡
 
