@@ -21,13 +21,12 @@
 class CyberSecurityEnthusiast:
     def __init__(self):
         self.name = "Adarsh H N"
-        self.role = "Security Researcher"
+        self.role = "Student"
         self.education = "CS (Cybersecurity) @ NMAMIT"
         self.graduation = 2028
         self.interests = [
             "Ethical Hacking",
-            "Penetration Testing", 
-            "Malware Analysis",
+            "Coding",
             "Network Security",
             "CTF Challenges"
         ]
@@ -86,41 +85,6 @@ class CyberSecurityEnthusiast:
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ADARSH-HN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Adarsh H N))
-    Security Research
-      Vulnerability Analysis
-      Penetration Testing
-      Security Audits
-    Skills Development
-      Python Automation
-      Network Security
-      Cryptography
-    Projects
-      CTF Writeups
-      Security Tools
-      Open Source Contribution
-    Learning
-      Cloud Security
-      AI in Cybersecurity
-      Blockchain Security
 ```
 
 </div>
