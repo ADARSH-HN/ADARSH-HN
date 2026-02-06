@@ -76,7 +76,6 @@ class CyberSecurityEnthusiast:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSH-HN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH-HN&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6e96" alt="Activity Graph"/>
 
 </div>
