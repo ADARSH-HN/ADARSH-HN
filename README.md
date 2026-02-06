@@ -85,7 +85,6 @@ class CyberSecurityEnthusiast:
 
 </div>
 
-```
 
 </div>
 
