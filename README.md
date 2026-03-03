@@ -72,8 +72,6 @@ class CyberSecurityEnthusiast:
 
 ---
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -83,34 +81,13 @@ class CyberSecurityEnthusiast:
 
 </div>
 
----
 
-## 💭 Quote of the Day
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
+    
 ### 🔒 "In Code We Trust, In Security We Must" 🔒
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
-
-### ⚡ Powered by Passion | Secured by Knowledge | Driven by Curiosity ⚡
-
 ![Wave](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
----
-
-**"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."**  
-*- Gene Spafford*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Happy%20Hacking!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
