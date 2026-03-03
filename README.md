@@ -72,17 +72,6 @@ class CyberSecurityEnthusiast:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADARSH-HN&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6e96" alt="Activity Graph"/>
-
-</div>
-
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
